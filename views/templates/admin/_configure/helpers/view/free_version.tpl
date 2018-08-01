@@ -1,0 +1,94 @@
+{*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+* We offer the best and most useful modules PrestaShop and modifications for your online store.
+*
+* @author    knowband.com <support@knowband.com>
+* @copyright 2017 Knowband
+* @license   see file: LICENSE.txt
+* @category  PrestaShop Module
+*
+*
+* Description
+*
+* Gamification wheel for offering discount coupons.
+*}
+
+<div class="form-group">
+    <div class="col-lg-12">
+
+        <div class="alert alert-warning">
+            <strong>{l s='Following features are not avalialble in free version.' mod='spinwheel'} <a href="https://www.knowband.com/prestashop-spin-and-win" target="_blank">{l s='Click here' mod='spinwheel'}</a> {l s='to buy paid version of this module.' mod='spinwheel'} </strong>
+            <div>
+                <section>
+                    <strong>1 {l s='General setting tab' mod='spinwheel'} </strong>
+                    <ul>
+                        <li>{l s='Show Pull out : Setting to allow store owner to provide the option to pull the wheel back on the screen by the user' mod='spinwheel'}</li>
+                        <li>{l s='Email Redundancy Check : Setting to verify the email id of the customer in order to ensure that there is no repetition of emails id' mod='spinwheel'}</li>
+                        <li>{l s='Wheel Display Interval : Setting to fix the number of days after which the wheel will be displayed to the customer.' mod='spinwheel'}</li>
+                        <li>{l s='Custom CSS and Custom JS : Setting to change  the look and feel of the module as per their need by entering the custom CSS and custom JS code' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>2 {l s='Display setting tab' mod='spinwheel'}</strong>
+                    <ul>
+                        <li>{l s='Minimum Screen Size : Setting to choose minimum screen size whom you want to display offers.' mod='spinwheel'}</li>
+                        <li>{l s='Maximum Display frequency : Setting to select the frequency of the wheel display here' mod='spinwheel'}</li>
+                        <li>{l s='Where to Display : Setting to select the pages where you want to display the wheel from here' mod='spinwheel'}</li>
+                        <li>{l s='Who to Show : Setting to select the visitors to whom you want to show the spin wheel. You may select ‘All Visitors’, ‘Registered Visitors’, or ‘Guest Visitors’' mod='spinwheel'}</li>
+                        <li>{l s='When to Display : Setting to choose exactly when you want the wheel to be displayed. You can either display it immediately when the customer lands on your site or after some time or when the visitor scrolls down' mod='spinwheel'}</li>
+                        <li>{l s='Geo Location :  Setting to select the display offers as per the Geo location of the visitors.' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>3 {l s='Look & Feel  setting tab' mod='spinwheel'} </strong>
+                    <ul>
+                        <li>{l s='Setting to allow change the look of the wheel as it appears on the site' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>4 {l s='Wheel setting tab' mod='spinwheel'} </strong>
+                    <ul>
+                        <li>{l s='Setting to change the look and feel of the spin wheel by changing the configuration in the ‘Wheel Setting’ option' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>5 {l s='Slice setting tab' mod='spinwheel'}</strong>
+                    <ul>
+                        <li>{l s='Settings and the text or offers displayed in the different slices of the wheel can be changed from the ‘Slice Setting’ option' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>6 {l s='Email marketing setting tab' mod='spinwheel'}</strong>
+                    <ul>
+                        <li>{l s='The admin can enable or disable MailChimp and Klaviyo option from the ‘Email Marketing’ settings. An email notification will be sent to the customers on the email id as mentioned by them.' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>7 {l s='Email tab' mod='spinwheel'}</strong>
+                     <ul>
+                        <li>{l s='Allows the admin to choose the places where he wants to display the coupon. Namely ‘Only on Wheel’, ‘Email Only’, ‘Email & Wheel’' mod='spinwheel'}</li>
+                    </ul>
+                    <strong>8 {l s='Statistics tab' mod='spinwheel'}</strong>
+                    
+                    <ul>
+                        <li>{l s='A complete access to the statistical report of the visitors who spinned the wheel and claimed the coupon generated by the same. The report is generated in both graphical and tabular format.' mod='spinwheel'}</li>
+                    </ul>
+                </section>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+{*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer tohttp://www.prestashop.com for more information.
+* We offer the best and most useful modules PrestaShop and modifications for your online store.
+*
+* @category  PrestaShop Module
+* @author    knowband.com <support@knowband.com>
+* @copyright 2015 Knowband
+* @license   see file: LICENSE.txt
+*
+* Description
+*
+* Admin tpl file
+*}
+

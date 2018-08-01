@@ -1,0 +1,67 @@
+  
+/**
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ * versions in the future. If you wish to customize PrestaShop for your
+ * needs please refer to http://www.prestashop.com for more information.
+ * We offer the best and most useful modules PrestaShop and modifications for your online store.
+ *
+ * @author    knowband.com <support@knowband.com>
+ * @copyright 2017 Knowband
+ * @license   see file: LICENSE.txt
+ * @category  PrestaShop Module
+ *
+ *
+ * Description
+ *
+ * Gamification wheel for offering discount coupons.
+ */
+.panel_spin_wheel {
+    text-transform: uppercase;
+    border-bottom: solid 1px #eee;
+    padding: 0 0 0 5px;
+    margin: 0px;
+    font-family: "Ubuntu Condensed",Helvetica,Arial,sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #555;
+    height: 32px;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    box-sizing: border-box;
+    display:none;
+}
+.spin_error{
+    color: red;
+    // border:1px solid red;
+}
+//To show complete datetime UI 
+.ui-datepicker {
+    z-index: 999999 !important;
+}
+.error_field{
+    border-color:red !important;
+}
+.success_field {
+    color:green;
+}
+.list-group-item {
+    cursor: pointer;
+}
+
+.velsof_spinwheel_admin_overlay {
+    font-size: 50px;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    background-color: rgba(255,255,255,0.6);
+}
+
+.ui-datepicker-div {
+    z-index: 999999999;
+}
