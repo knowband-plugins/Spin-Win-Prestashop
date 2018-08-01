@@ -1,10 +1,6 @@
 # Free Spin & Win Addons for Prestashop 1.6
 While there are a lot of subscription pop-ups, nothing really works when it comes to increasing the customer base. In fact, the exit-intend pop-ups are actually considered annoying for the online shoppers. The Prestashop spin and win module provide one of the ways to motivate the store visitors to enter their email ids. It is now really the trigger. The spin and win module allow the visitors to try their luck. The gracious way of giveaways can excite the customers even with a small discount. Lure the customers back to the store and amp up your traffic along with conversions.
 
-To use the advanced features of this Prestashop extension the store admin can purchase the paid version of the Prestashop free advance wishlist Addon.
-
-[https://www.knowband.com/prestashop-spin-and-win](https://www.knowband.com/prestashop-spin-and-win)
-
 ## Features
 * It can be used as an entry or exit pop-up as per the requirement of the e-merchants.
 * The process of spinning the wheel in order to get the offers is addictive and fun. The expectation of hitting a big discount keeps the customers engaged in the store.
